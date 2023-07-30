@@ -1,0 +1,15 @@
+/home/oliver/dev/poc-core-xml-json-console/console/bin/Debug/net7.0/console
+/home/oliver/dev/poc-core-xml-json-console/console/bin/Debug/net7.0/console.deps.json
+/home/oliver/dev/poc-core-xml-json-console/console/bin/Debug/net7.0/console.runtimeconfig.json
+/home/oliver/dev/poc-core-xml-json-console/console/bin/Debug/net7.0/console.dll
+/home/oliver/dev/poc-core-xml-json-console/console/bin/Debug/net7.0/console.pdb
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.csproj.AssemblyReference.cache
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.AssemblyInfoInputs.cache
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.AssemblyInfo.cs
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.csproj.CoreCompileInputs.cache
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.dll
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/refint/console.dll
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.pdb
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/console.genruntimeconfig.cache
+/home/oliver/dev/poc-core-xml-json-console/console/obj/Debug/net7.0/ref/console.dll
